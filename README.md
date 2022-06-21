@@ -65,5 +65,5 @@ To easily identify the correct CSS style that I need and the correct arrangement
 
 ## Author
 
-- FreeCodeCamp - [Add your name here](https://www.freecodecamp.org/CharlieeLuna)
+- FreeCodeCamp - [CharlieeLuna](https://www.freecodecamp.org/CharlieeLuna)
 - Frontend Mentor - [@CharlieeLuna23](https://www.frontendmentor.io/profile/CharlieeLuna23)
